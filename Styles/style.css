@@ -1,10 +1,11 @@
-
+/*Google fonts*/
 .azeret-mono-normal {
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
 }
 
+/*Banner Styles*/
 .banner{
     background-image: url(../assets/Hero-bg.png);
     
@@ -35,6 +36,12 @@
     margin-bottom: 45px;
 }
 
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/*Skills styles*/
 .section-title{
     font-size: 32px;
     font-weight: bold;
@@ -51,11 +58,6 @@
     padding: 48px;
     margin-bottom: 32px;
     border-radius: 16px;
-}
-
-.main{
-    max-width: 1140px;
-    margin: 0 auto;
 }
 
 .skills{
@@ -104,6 +106,8 @@ iframe{
     justify-content: space-around;
 }
 
+/*Technology section styles*/
+
 .technologies{
     padding: 40px;
     border-radius: 10px;
@@ -134,7 +138,7 @@ iframe{
     color: #555963;
 }
 
-
+/*Footer Styles*/
 .footer-bg{
     max-width: 1140px;
     margin: 0 auto;

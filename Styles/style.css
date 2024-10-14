@@ -35,6 +35,11 @@
     margin-bottom: 45px;
 }
 
+.section-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+
 .text-center{
     text-align: center;
 }
@@ -54,7 +59,6 @@
 }
 
 .skills{
-    max-width: 1140px;
     margin-top: 50px;
     border-radius: 10px;
     padding: 50px 150px;
@@ -82,4 +86,15 @@
 
 .background{
     background-color: #FAFAFB;
+}
+
+.inspiration-section{
+    margin-top: 50px;
+}
+.inspiration-video{
+    text-align: center;
+    margin-top: 50px;
+}
+iframe{
+    border-radius: 16px;
 }

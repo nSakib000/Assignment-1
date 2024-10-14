@@ -34,3 +34,52 @@
     border-radius: 8px;
     margin-bottom: 45px;
 }
+
+.text-center{
+    text-align: center;
+}
+
+.skills-container{
+    display: flex;
+    gap: 150px;
+    background-color: #ffffff;
+    padding: 48px;
+    margin-bottom: 32px;
+    border-radius: 16px;
+}
+
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.skills{
+    max-width: 1140px;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 50px 150px;
+}
+
+.skill-title{
+    font-size: 24px;
+    font-weight: bold;
+    color: #555963;
+}
+
+.skill-description{
+    font-size: 16px;
+}
+
+.learn-btn{
+    padding: 12px 20px;
+    font-size: 20px;
+    color: #555963;
+    font-weight: 600;
+    background-color: #ffffff;
+    margin-top: 32px;
+    cursor: pointer;
+}
+
+.background{
+    background-color: #FAFAFB;
+}

@@ -8,7 +8,6 @@
 /*Banner Styles*/
 .banner{
     background-image: url(../assets/Hero-bg.png);
-    
 }
 .banner-content{
     text-align: center;
@@ -24,18 +23,19 @@
 .banner-description{
     font-size: 20px;
     color: #0D1321;
+    margin-bottom: 20px;
 }
 
-.btn-primary{
+.button{
+    text-decoration: none;
     padding: 10px;
     font-size: 20px;
     font-weight: 500;
     color: #ffffff;
     background-color: #0D1321;
     border-radius: 8px;
-    margin-bottom: 45px;
+    margin-bottom: 30px;
 }
-
 .main{
     max-width: 1140px;
     margin: 0 auto;

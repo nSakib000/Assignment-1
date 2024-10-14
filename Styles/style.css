@@ -98,3 +98,92 @@
 iframe{
     border-radius: 16px;
 }
+
+.target-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.technologies{
+    padding: 40px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.bg-1{
+    background-color: #FFF6F3;
+}
+.bg-2{
+    background-color: #F2F6FE;
+}
+.bg-3{
+    background-color: #FFFDF2;
+}
+.tech-title{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.tech-description{
+    font-size: 18px;
+}
+
+.learn-more{
+    font-size: 16px;
+    font-weight: bold;
+    color: #555963;
+}
+
+
+.footer-bg{
+    max-width: 1140px;
+    margin: 0 auto;
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 64px 48px;
+    margin-top: 40px;
+    border-radius: 16px;
+}
+.footer-content{
+    text-align: center;
+}
+footer input[type = "text"]{
+    height: 20px;
+    width: 50%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+}
+
+.btn-submit{
+    background-color: #ffffff;
+    color: #0D1321;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+
+.text-color{
+    color: #ffffff;
+}
+
+.footer-column{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F7F8F8;
+    margin-top: 50px;
+}
+
+h5{
+    font-size: 24px;
+    font-weight: bold;
+
+}
